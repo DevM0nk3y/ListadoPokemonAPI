@@ -8,7 +8,7 @@
 
 * [PokéAPI](https://pokeapi.co)
 
-<a href="./ScreenshotOne.png"><img src="./ScreenshotOne.png" style="height: 30%; width:30%;"/></a>         <a href="./ScreenshotTow.png"><img src="./ScreenshotTow.png" style="height: 30%; width:30%;"/></a>
+<a href="./ScreenshotOne.png"><img src="./ScreenshotOne.png" style="height: 35%; width:35%;"/></a>         <a href="./ScreenshotTow.png"><img src="./ScreenshotTow.png" style="height: 35%; width:35%;"/></a>
 
 ## Encuéntrame en:
 <!--[![Facebook](https://img.shields.io/badge/Facebook-devm0nk3y-blue.svg?style=for-the-badge)](https://facebook.com/devm0nk3y)
